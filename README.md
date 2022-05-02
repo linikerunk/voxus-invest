@@ -16,14 +16,14 @@
     <img alt="Code Style" src="https://img.shields.io/badge/code%20style-black-000000.svg">
   </a>
    
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wlsouza/cashbackgb">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/linikerunk/voxus-invest">
   
-  <a href="https://github.com/wlsouza/cashbackgb/actions/workflows/python-app.yml">
-    <img alt="Repository size" src="https://github.com/wlsouza/cashbackgb/actions/workflows/python-app.yml/badge.svg">
+  <a href="https://github.com/linikerunk/voxus-invest/actions/workflows/python-app.yml">
+    <img alt="Repository size" src="https://github.com/linikerunk/voxus-invest/actions/workflows/python-app.yml/badge.svg">
   </a>	
 	  
-  <a href="https://github.com/wlsouza/cashbackgb/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wlsouza/cashbackgb">
+  <a href="https://github.com/linikerunk/voxus-invest/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/linikerunk/voxus-invest">
   </a>
     
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -221,7 +221,7 @@ The following tools were used in the construction of the project:
  <sub><b>Liniker Oliveira</b></sub></a> <a href="https://github.com/linikerunk" title="Github Liniker">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Liniker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/liniker-oliveira-363486149)](https://in.linkedin.com/in/liniker-oliveira-363486149) 
+[![Linkedin Badge](https://img.shields.io/badge/-Liniker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/liniker-oliveira-363486149)]
 [![Gmail Badge](https://img.shields.io/badge/-linikerenem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linikerenem@gmail.com)](mailto:linikerenem@gmail.com)
 
 ---
