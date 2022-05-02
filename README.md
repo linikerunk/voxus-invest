@@ -216,13 +216,13 @@ The following tools were used in the construction of the project:
 ## 🦸‍♂️ Autor
 
 <a href="https://github.com/wlsouza">
- <img style="border-radius: 50%;" src="https://github.com/wlsouza.png" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/linikerunk.png" width="100px;" alt=""/>
  <br />
- <sub><b>Wellington Lorenço de Souza</b></sub></a> <a href="https://github.com/wlsouza" title="Github Wellington">🚀</a>
+ <sub><b>Liniker Oliveira</b></sub></a> <a href="https://github.com/linikerunk" title="Github Liniker">🚀</a>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wellington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/wellingtonlorenco)](https://in.linkedin.com/in/wellingtonlorenco) 
-[![Gmail Badge](https://img.shields.io/badge/-wlsouza@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsouza@protonmail.com)](mailto:wlsouza@protonmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-linikerenem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linikerenem@gmail.com)](mailto:linikerenem@gmail.com)
 
 ---
 
