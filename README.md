@@ -16,10 +16,6 @@
     <img alt="Code Style" src="https://img.shields.io/badge/code%20style-black-000000.svg">
   </a>
   
-  <a href="https://github.com/linikerunk/voxus-invest/actions/workflows/python-app.yml">
-    <img alt="Repository size" src="https://github.com/linikerunk/voxus-invest/actions/workflows/python-app.yml/badge.svg">
-  </a>	
-	  
   <a href="https://github.com/linikerunk/voxus-invest/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/linikerunk/voxus-invest">
   </a>
