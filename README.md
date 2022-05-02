@@ -15,8 +15,6 @@
   <a href="https://github.com/psf/black">
     <img alt="Code Style" src="https://img.shields.io/badge/code%20style-black-000000.svg">
   </a>
-   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/linikerunk/voxus-invest">
   
   <a href="https://github.com/linikerunk/voxus-invest/actions/workflows/python-app.yml">
     <img alt="Repository size" src="https://github.com/linikerunk/voxus-invest/actions/workflows/python-app.yml/badge.svg">
@@ -221,7 +219,7 @@ The following tools were used in the construction of the project:
  <sub><b>Liniker Oliveira</b></sub></a> <a href="https://github.com/linikerunk" title="Github Liniker">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Liniker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/liniker-oliveira-363486149)]
+[Linkedin Badge](https://img.shields.io/badge/-Liniker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/liniker-oliveira-363486149)
 [![Gmail Badge](https://img.shields.io/badge/-linikerenem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linikerenem@gmail.com)](mailto:linikerenem@gmail.com)
 
 ---
