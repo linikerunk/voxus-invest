@@ -221,7 +221,7 @@ The following tools were used in the construction of the project:
  <sub><b>Liniker Oliveira</b></sub></a> <a href="https://github.com/linikerunk" title="Github Liniker">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wellington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/wellingtonlorenco)](https://in.linkedin.com/in/wellingtonlorenco) 
+[![Linkedin Badge](https://img.shields.io/badge/-Liniker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/liniker-oliveira-363486149)](https://in.linkedin.com/in/liniker-oliveira-363486149) 
 [![Gmail Badge](https://img.shields.io/badge/-linikerenem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linikerenem@gmail.com)](mailto:linikerenem@gmail.com)
 
 ---
