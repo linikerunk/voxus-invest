@@ -101,9 +101,9 @@ Before you begin, you will need to have the following tools installed on your ma
 > 		<b> Running locally </b>
 >	 </summary>
 > 
->	 1. Clone this repository:  
+>	1. Clone this repository:  
 >	 	`$ git clone https://github.com/linikerunk/voxus-invest.git`  
-	2. Create a virtualenv:
+>	2. Create a virtualenv:  
 	 	`$ python3 -m venv name_venv`  
 > 	3. Activate your env:  
 >	 	`$ source /home/brago/workspace/projects/voxus/voxus-invest-env/bin/activate`  
