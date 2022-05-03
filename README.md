@@ -112,8 +112,8 @@ Before you begin, you will need to have the following tools installed on your ma
 
 > 	5. Run the application in development mode:  
 > 		`$ uvicorn app.main:app `  
->	6. The server will start at port: 8000 - [see the docs](http://localhost:8000/docs)
-	7. The server will start at port: 8000 - [see the docs](http://localhost:8000/redoc)
+>	6. The server will start at port: 8000 - [see the docs](http://localhost:8000/docs)  
+	7. The server will start at port: 8000 - [see the docs](http://localhost:8000/redoc)  
 > </details>
 
 
