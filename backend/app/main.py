@@ -1,12 +1,18 @@
 from fastapi import FastAPI, Depends, HTTPException, status
 from auth import AuthHandler
-from schemas import AuthDetails
+from backend.app.schemas import AuthDetails
 
 
 app = FastAPI()
 
 auth_handler = AuthHandler()
 users = []
+
+
+@app.get("/")
+async def root():
+    return {"message": "Liniker vc é foda"}
+
 
 @app.post('/register', status_code=201)
 async def register(auth_details: AuthDetails):

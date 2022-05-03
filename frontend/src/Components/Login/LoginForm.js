@@ -8,7 +8,6 @@ import { TOKEN_POST } from "../../services/apiUrl";
 import Input from "../Inputs/Inputs";
 import Buttons from "../Buttons/Buttons";
 import Title from "../Title/Title";
-import LOGO from "../../Assets/LOGO.svg";
 import Head from "../Helper/Head/Head";
 
 import useForm from "../../Hooks/useForm";
