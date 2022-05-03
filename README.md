@@ -53,8 +53,9 @@
 ✔️ Route to register a new client. (It's called user within API and database)  
 ✔️ Route to validate a reseller login and obtain a JWT token.  
 ✔️ Route to register a new investment.  
+✔️ Route to filter the datetime of investment was bought.  
 ✔️ Route to list the investments.
-✔️ Route to filter the datetime of investment was bought
+
 
 ### Technical resources:  
 ✔️ Interactive documentation with OpenAPI (swagger)  
@@ -67,16 +68,22 @@
 
 ---
 
-## 👀 Demo
+## 👀 UML and Deploys
 
 The application is available on heroku and vercel:
 
-<a href="https://85oefk100h.execute-api.us-east-1.amazonaws.com/dev/docs">
-  <img alt="CashBack GB" src="https://img.shields.io/badge/Access%20interactive%20documentation%20-OpenAPI-%2304D361">
-</a>
-<a href="https://85oefk100h.execute-api.us-east-1.amazonaws.com/dev/docs">
-  <img alt="CashBack GB" src="https://img.shields.io/badge/Access%20documentation%20-Redoc-blue">
-</a>
+UML about system:
+![voxus_uml](https://user-images.githubusercontent.com/27506588/166464895-faf6d4bd-a50e-4ec1-8340-9baa540c6666.png)
+
+
+## 🎃 Figma and Design the application
+
+example register:
+![image](https://user-images.githubusercontent.com/27506588/166465576-ebc8218e-eeb4-4b8c-941e-4d867ec6886e.png)
+
+link to figma:
+https://www.figma.com/file/av9EHg4FEGPyt7PXO33uCE/Voxus?node-id=3%3A3
+
 
 ---
 ## 🚀 Running the project
