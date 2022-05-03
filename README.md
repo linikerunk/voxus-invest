@@ -43,7 +43,7 @@
 
 ## 💻 About
 
-**Cashback GB** - is an API project that aims to provide a backend for a web system where resellers can register their purchases and track the cashback return of each one. 
+**Voxus Investiment** - is an API project that aims to provide a backend for a web system where can register their purchases wallets and track the cashback return of each one. 
 
 ---
 
