@@ -61,9 +61,8 @@
 ✔️ Interactive documentation with OpenAPI (swagger)  
 ✔️ Documentation with Redoc  
 ✔️ JWT authentication  
-✔️ Asynchronous database layer (both Postgres and SqLite)  
+✔️ Asynchronous database layer (both MySQL and SqLite)  
 ✔️ Database Migrations  
-✔️ Dockerized application  
 ✔️ Micro-services with front-end with React to consume back-end
 
 ---
