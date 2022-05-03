@@ -15,7 +15,7 @@ import Head from "../Helper/Head/Head";
 const LoginCreate = () => {
   const username = useForm();
   const email = useForm("email");
-  const password = useForm(); // se usar em aplicação real, forçar do tipo "password". Fazer regex no Hook.
+  const password = useForm(); // necess do regex in Hook to force password.
 
   const { loading, error, request } = useFetch();
 

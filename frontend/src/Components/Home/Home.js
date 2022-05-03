@@ -8,7 +8,7 @@ import { Container } from "../../style/GlobalStyle";
 const Home = () => {
   return (
     <Container style={{ marginTop: "2rem" }}>
-      <Head title="Fotos" description="Home do site Dogs, com feed de fotos" />
+      <Head title="Fotos" description="Home to voxus investment" />
       <Feed />
     </Container>
   );
