@@ -102,58 +102,33 @@ Before you begin, you will need to have the following tools installed on your ma
 >	 </summary>
 > 
 >	 1. Clone this repository:  
->	 	`$ git clone https://github.com/wlsouza/cashbackgb.git`  
-> 	2. Access the project folder cmd/terminal:  
->	 	`$ cd cashbackgb`  
-> 	3. Install the dependencies (step for Linux users only):  
-> 		`$ make install-dev`  
->	 4. Install the dependencies (step for windows users only):  
->	 	`$ pip install -r ./requirements.txt`  
-> 		`$ pip install -r ./requirements-dev.txt`  
+>	 	`$ git clone https://github.com/linikerunk/voxus-invest.git`
+	2. Create a virtualenv:
+	 	`$ python3 -m venv name_venv`
+> 	3. Activate your env:  
+>	 	`$ source /home/brago/workspace/projects/voxus/voxus-invest-env/bin/activate`  
+> 	4. Install the dependencies (step for Linux users only):  
+> 		`$ pip install -r requirements.txt`  
+
 > 	5. Run the application in development mode:  
 > 		`$ uvicorn app.main:app `  
->	 6. The server will start at port: 8000 - [see the docs](http://localhost:8000/docs)
+>	6. The server will start at port: 8000 - [see the docs](http://localhost:8000/docs)
+	7. The server will start at port: 8000 - [see the docs](http://localhost:8000/redoc)
 > </details>
 
 
 > <details>
 > 	<summary>
-> 		<b> Running in docker </b>
+> 		<b> Running app React</b>
 > 	</summary>
-> 
-> 	1. Clone this repository:  
-> 		`$ git clone https://github.com/wlsouza/cashbackgb.git`   
-> 	2. Access the project folder cmd/terminal:  
-> 		`$ cd cashbackgb`  
-> 	3. Create a copy and rename the file "example.env" to ".env":  
->		`$ cp example.env .env` - (for Linux users)  
->		`$ copy example.env .env` - (for Windows users)  
->	4. Run the docker-compose in development mode:  
->		`$ docker-compose build --no--cache && docker-compose up -d`  
+
+> 	1. Access the project folder cmd/terminal:  
+> 		`$ cd frontend `  
+> 	2. Install the node_modules of package.json:  
+>		`$ yarn `
+>	3. Run the front-end project:  
+>		`$ yarn start`  
 > 	5. The server will start at port: 8000 - [see the docs](http://localhost:8000/docs)
-> </details>
-
-
-> <details>
->	<summary>
->		<b> Running tests </b>
->	</summary>
->
->	1. Clone this repository:  
->		`$ git clone https://github.com/wlsouza/cashbackgb.git`  
->	2. Access the project folder cmd/terminal  
->		`$ cd cashbackgb`  
->	3. Install the dependencies (step for Linux users only)  
->		`$ make install-dev`  
->	4. Install the dependencies (step for windows users only)  
->		`$ pip install -r ./requirements.txt`  
->		`$ pip install -r ./requirements-dev.txt`  
->	5. Run the tests (step for Linux users only)  
->		`$ make test`  
->	6. Run the tests (step for windows users only)  
->		`$ set APP_ENVIRONMENT="TEST"`  
->		`$ alembic upgrade head`  
->		`$ pytest app/tests/ -v --cov=app`  
 > </details>
 
 ---
