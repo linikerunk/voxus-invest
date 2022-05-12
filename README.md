@@ -40,13 +40,6 @@
 
 </p>
 
-
-## 💻 About
-
-** AMcom ** - is a project that leads with API in DRF to communicate with a React aplications, to build a market-place and make querys for the user know about several things. 
-
----
-
 ## ⚙️ Features
 
 ### API Routes:  
