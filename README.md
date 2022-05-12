@@ -73,12 +73,6 @@ The application is available on heroku and vercel:
 UML about system:
 
 
-## 🎃 Figma and Design the application
-
-example register:
-![image](https://user-images.githubusercontent.com/27506588/167971928-9d3065cb-d259-412a-9ba0-78bdda393707.png)
-
-
 ---
 ## 🚀 Running the project
 
