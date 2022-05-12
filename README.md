@@ -43,7 +43,7 @@
 
 ## 💻 About
 
-**Voxus Investiment** - is an API project that aims to provide a backend for a web system where can register their purchases investment and generate the bills. 
+** AMcom ** - is a project that leads with API in DRF to communicate with a React aplications, to build a market-place and make querys for the user know about several things. 
 
 ---
 
@@ -51,17 +51,16 @@
 
 ### API Routes:  
 ✔️ Route to register a new client. (It's called user within API and database)  
-✔️ Route to validate a reseller login and obtain a JWT token.  
-✔️ Route to register a new investment.  
-✔️ Route to filter the datetime of investment was bought.  
-✔️ Route to list the investments.
+✔️ [optional] Route to validate a reseller login and obtain a JWT token.  
+✔️ Route to register a new product.  
+✔️ Route to launch products by date and time and quantity.  
+✔️ Route to consult salesperson data commission in a given period.
 
 
 ### Technical resources:  
-✔️ Interactive documentation with OpenAPI (swagger)  
-✔️ Documentation with Redoc  
-✔️ JWT authentication  
-✔️ Asynchronous database layer (both MySQL and SqLite)  
+✔️ [optional] Interactive documentation with (swagger)  
+✔️ [optional] JWT authentication  
+✔️ Database PostgreSQL
 ✔️ Database Migrations  
 ✔️ Micro-services with front-end with React to consume back-end
 
@@ -72,16 +71,12 @@
 The application is available on heroku and vercel:
 
 UML about system:
-![voxus_uml](https://user-images.githubusercontent.com/27506588/166464895-faf6d4bd-a50e-4ec1-8340-9baa540c6666.png)
 
 
 ## 🎃 Figma and Design the application
 
 example register:
-![image](https://user-images.githubusercontent.com/27506588/166465576-ebc8218e-eeb4-4b8c-941e-4d867ec6886e.png)
-
-link to figma:
-https://www.figma.com/file/av9EHg4FEGPyt7PXO33uCE/Voxus?node-id=3%3A3
+![image](https://user-images.githubusercontent.com/27506588/167971928-9d3065cb-d259-412a-9ba0-78bdda393707.png)
 
 
 ---
@@ -93,7 +88,6 @@ Before you begin, you will need to have the following tools installed on your ma
 * [Git](https://git-scm.com)  
 * [Python](https://www.python.org).  
 * In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)    
-
 
 > <details open>
 >	 <summary>
